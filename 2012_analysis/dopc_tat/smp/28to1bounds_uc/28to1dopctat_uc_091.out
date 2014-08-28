@@ -1,0 +1,179 @@
+# Wed Jun 11 12:28:42 PM EDT 2014
+# smp_filename: /home/unkokusei/WinE/Documents and Settings/Owner/My Documents/work/Tat_2012/dopc_tat/smp/dopctat_uc.smp
+# MSD=0.008610 X2=1817.976393 X2red=3.258022 PT2=8.520007 PX2tot=1826.496401 N=1 v=560 c=7
+# MSDfractX=1.000000 X2fractX=1.000000
+# MSDfractN=0.000000 X2fractN=0.000000
+# A             =81.902
+# CG(X,C,S)	   =14.104,	0.55233,	3.0
+# Ph            =17.202,	0.95377,	2.5
+# Ch            =0.0,	0.0,	0.0
+# hydroCarbon   =12.803,	1.0,	2.6882
+# SigmaC        =2.6882,	0.225,	2.25
+# DoubleBond    =3.0000,	0.23059,	3.5
+# Methyl        =0.0,	0.44491,	2.9558
+# r(r,t,sr)     =1.97,	0.00197,	1.97
+# r12(r,t,sr)   =1.209,	0.02,	1.209
+# RCG(R,t,sR)   =0.41,	0.0041,	0.41
+# RPh(R,t,sR)   =0.59,	0.0059,	0.59
+# Rm		   =300.0
+# sigR		   =75.0
+# n(C2,C1,C3)   =16.0,	1.0,	1.0
+# V(C2,C1,C3)   =27.337,	33.051,	53.854
+# VL		   =1379.6
+# VHL=VHR       =331.0
+# VCG           =135.71
+# VPh, VCh      =195.29,	1.8374e-14
+# VH=VHL+VHpep  =331.0
+# Vpep          =0.0
+# D             =66.5
+# DPP           =34.405
+# DB            =33.689
+# DH1           =4.3993,	0.0044,	4.4
+# DC            =12.803,	-0.144,	14.4
+# dXH           =3.0982,	0.0031,	3.1
+# dXH2          =17.202,	-0.001,	3.8
+# dXH3          =1.3011,	-0.13,	1.3
+# fract(2,0,1)  =0.0,	0.0,	1.0
+set max_peak 2
+set chifactorN 2e+09
+active 3
+set x(0) 14.104; free 0
+set x(1) 0.55233; fix 1
+set x(2) 3.0; free 2
+set x(3) 17.202; free 3
+set x(4) 0.95377; fix 4
+set x(5) 2.5; free 5
+set x(6) 0.0; fix 6
+set x(7) 0.0; fix 7
+set x(8) 0.0; fix 8
+set x(9) 12.803; free 9
+set x(10) 1.0; fix 10
+set x(11) 2.6882; free 11
+set x(12) 3.0000; fix 12
+set x(13) 0.23059; fix 13
+set x(14) 3.5; fix 14
+set x(15) 0.0; fix 15
+set x(16) 0.44491; fix 16
+set x(17) 2.9558; free 17
+set x(18) 1.97; fix 18
+set x(19) 1.209; fix 19
+set x(20) 0.41; fix 20
+set x(21) 0.59; fix 21
+set x(22) 300.0; fix 22
+set x(23) 75.0; fix 23
+set x(24) 81.902; fix 24
+set x(25) 16.0; fix 25
+set x(26) 1.0; fix 26
+set x(27) 1.0; fix 27
+set x(28) 1379.6; fix 28
+set x(29) 331.0; fix 29
+set x(30) 0.0; fix 30
+set x(31) 331.0; fix 31
+set x(32) 135.71; fix 32
+set x(33) 195.29; fix 33
+set x(34) 1.8374e-14; fix 34
+set x(35) 27.337; fix 35
+set x(36) 33.051; fix 36
+set x(37) 53.854; fix 37
+set x(38) 66.5; fix 38
+set x(39) 34.405; fix 39
+set x(40) 33.689; fix 40
+set x(41) 12.803; fix 41
+set x(42) 4.3993; fix 42
+set x(43) 0.0044; fix 43
+set x(44) 4.4; fix 44
+set x(45) 3.0982; fix 45
+set x(46) 0.0031; fix 46
+set x(47) 3.1; fix 47
+set x(48) 0.00197; fix 48
+set x(49) 1.97; fix 49
+set x(50) 0.02; fix 50
+set x(51) 1.209; fix 51
+set x(52) 0.0041; fix 52
+set x(53) 0.41; fix 53
+set x(54) 0.0059; fix 54
+set x(55) 0.59; fix 55
+set x(56) 0.225; fix 56
+set x(57) 2.25; fix 57
+set x(58) -0.144; fix 58
+set x(59) 14.4; fix 59
+set x(60) 17.202; fix 60
+set x(61) -0.001; fix 61
+set x(62) 3.8; fix 62
+set x(63) 1818.0; fix 63
+set x(64) 4.8044; fix 64
+set x(65) 0.041796; fix 65
+set x(66) 0.02; fix 66
+set x(67) 1.3011; fix 67
+set x(68) -0.13; fix 68
+set x(69) 1.3; fix 69
+set carbGlyc(tol_s) -1
+set carbGlyc(tol_c) -1
+set carbGlyc(target_s) 3
+set carbGlyc(target_c) 14
+set carbGlyc(tol_a) -1
+set carbGlyc(target_a) 1
+set phosphate(tol_s) -1
+set phosphate(tol_c) -1
+set phosphate(target_s) 3
+set phosphate(target_c) 18
+set phosphate(tol_a) -1
+set phosphate(target_a) 1
+set choline(tol_s) -1
+set choline(tol_c) -1
+set choline(target_s) 3
+set choline(target_c) 20
+set choline(tol_a) -1
+set choline(target_a) 1
+set methine(tol_s) -1
+set methine(tol_c) -1
+set methine(target_s) 3
+set methine(target_c) 5
+set methine(tol_a) -1
+set methine(target_a) 1
+set methyl(tol_s) -1
+set methyl(tol_c) -1
+set methyl(target_s) 3
+set methyl(target_c) 0
+set methyl(tol_a) -1
+set methyl(target_a) 1
+set upperBounds(0) 0.0
+set upperBounds(2) 0.0
+set upperBounds(3) 0.0
+set upperBounds(5) 0.0
+set upperBounds(6) 0.0
+set upperBounds(8) 0.0
+set upperBounds(12) 0.0
+set upperBounds(14) 0.0
+set upperBounds(15) 0.0
+set upperBounds(17) 0.0
+set lowerBounds(0) 0.0
+set lowerBounds(2) 3.0
+set lowerBounds(3) 0.0
+set lowerBounds(5) 2.5
+set lowerBounds(6) 0.0
+set lowerBounds(8) 0.0
+set lowerBounds(12) 0.0
+set lowerBounds(14) 0.0
+set lowerBounds(15) 0.0
+set lowerBounds(17) 0.0
+set hasUpperBound(0) 0
+set hasUpperBound(2) 0
+set hasUpperBound(3) 0
+set hasUpperBound(5) 0
+set hasUpperBound(6) 0
+set hasUpperBound(8) 0
+set hasUpperBound(12) 0
+set hasUpperBound(14) 0
+set hasUpperBound(15) 0
+set hasUpperBound(17) 0
+set hasLowerBound(0) 0
+set hasLowerBound(2) 1
+set hasLowerBound(3) 0
+set hasLowerBound(5) 1
+set hasLowerBound(6) 0
+set hasLowerBound(8) 0
+set hasLowerBound(12) 0
+set hasLowerBound(14) 0
+set hasLowerBound(15) 0
+set hasLowerBound(17) 0

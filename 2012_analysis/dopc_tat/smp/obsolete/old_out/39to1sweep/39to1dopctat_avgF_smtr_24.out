@@ -1,0 +1,109 @@
+# Tue Apr 02 12:29:53 PM EDT 2013
+# smp_filename: /home/kiyo/WinE/chess12/tat_dopc/all_tatdopc_frm/all_dopctat_02f2_avg_smtr.smp
+# MSD=0.004759 X2=1471.106483 X2red=2.636392 PT2=1.961135 PX2tot=1473.067618 N=1 v=561 c=7
+# MSDfractX=1.000000 X2fractX=1.000000
+# MSDfractN=0.000000 X2fractN=0.000000
+# A             =72.904
+# CG(X,C,S)	   =15.436,	0.73911,	2.5186
+# Ph            =18.537,	1.3224,	2.0256
+# Ch            =0.0,	0.0,	0.0
+# hydroCarbon   =14.136,	1.0,	2.5637
+# SigmaC        =2.5637,	0.225,	2.25
+# DoubleBond    =13.31,	0.32951,	2.0049
+# Methyl        =0.0,	0.48587,	3.0405
+# r(r,t,sr)     =1.97,	0.00197,	1.97
+# r12(r,t,sr)   =0.88095,	0.02,	0.88095
+# RCG(R,t,sR)   =0.41,	0.0041,	0.41
+# RPh(R,t,sR)   =0.59,	0.0059,	0.59
+# Rm		   =300.0
+# sigR		   =75.0
+# n(C2,C1,C3)   =16.0,	1.0,	1.0
+# V(C2,C1,C3)   =27.335,	24.081,	53.851
+# VL		   =1361.6
+# VHL=VHR       =331.0
+# VCG           =135.71
+# VPh, VCh      =195.29,	0.0
+# VH=VHL+VHpep  =331.0
+# Vpep          =0.0
+# D             =64.4
+# DPP           =37.073
+# DB            =37.353
+# DH1           =4.4002,	0.0044,	4.4
+# DC            =14.136,	-0.144,	14.4
+# dXH           =3.1004,	0.0031,	3.1
+# dXH2          =18.537,	-0.001,	3.8
+# dXH3          =1.2999,	-0.13,	1.3
+# fract(2,0,1)  =0.0,	0.0,	1.0
+set max_peak 2
+set chifactorN 2e+09
+active 2
+set x(0) 15.436; free 0
+set x(1) 0.73911; fix 1
+set x(2) 2.5186; free 2
+set x(3) 18.537; free 3
+set x(4) 1.3224; fix 4
+set x(5) 2.0256; free 5
+set x(6) 0.0; fix 6
+set x(7) 0.0; fix 7
+set x(8) 0.0; fix 8
+set x(9) 14.136; free 9
+set x(10) 1.0; fix 10
+set x(11) 2.5637; free 11
+set x(12) 13.31; free 12
+set x(13) 0.32951; fix 13
+set x(14) 2.0049; fix 14
+set x(15) 0.0; fix 15
+set x(16) 0.48587; fix 16
+set x(17) 3.0405; free 17
+set x(18) 1.97; fix 18
+set x(19) 0.88095; fix 19
+set x(20) 0.41; fix 20
+set x(21) 0.59; fix 21
+set x(22) 300.0; fix 22
+set x(23) 75.0; fix 23
+set x(24) 72.904; fix 24
+set x(25) 16.0; fix 25
+set x(26) 1.0; fix 26
+set x(27) 1.0; fix 27
+set x(28) 1361.6; fix 28
+set x(29) 331.0; fix 29
+set x(30) 0.0; fix 30
+set x(31) 331.0; fix 31
+set x(32) 135.71; fix 32
+set x(33) 195.29; fix 33
+set x(34) 0.0; fix 34
+set x(35) 27.335; fix 35
+set x(36) 24.081; fix 36
+set x(37) 53.851; fix 37
+set x(38) 64.4; fix 38
+set x(39) 37.073; fix 39
+set x(40) 37.353; fix 40
+set x(41) 14.136; fix 41
+set x(42) 4.4002; fix 42
+set x(43) 0.0044; fix 43
+set x(44) 4.4; fix 44
+set x(45) 3.1004; fix 45
+set x(46) 0.0031; fix 46
+set x(47) 3.1; fix 47
+set x(48) 0.00197; fix 48
+set x(49) 1.97; fix 49
+set x(50) 0.02; fix 50
+set x(51) 0.88095; fix 51
+set x(52) 0.0041; fix 52
+set x(53) 0.41; fix 53
+set x(54) 0.0059; fix 54
+set x(55) 0.59; fix 55
+set x(56) 0.225; fix 56
+set x(57) 2.25; fix 57
+set x(58) -0.144; fix 58
+set x(59) 14.4; fix 59
+set x(60) 18.537; fix 60
+set x(61) -0.001; fix 61
+set x(62) 3.8; fix 62
+set x(63) 1471.1; fix 63
+set x(64) 2.6553; fix 64
+set x(65) 0.0; fix 65
+set x(66) 0.02; fix 66
+set x(67) 1.2999; fix 67
+set x(68) -0.13; fix 68
+set x(69) 1.3; fix 69

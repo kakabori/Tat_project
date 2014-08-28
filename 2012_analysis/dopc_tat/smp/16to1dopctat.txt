@@ -1,0 +1,22 @@
+#RCG=0.41, RPh=0.59
+set head 1
+set Xpep 18
+set Cpep 1
+set Spep 4
+set Vpep 118.8
+set Vlipid 1313.5
+set VCG 135.7
+set VPh 195.3
+set VMe 27.3
+set NePep 53.0
+set rXCG 0.1
+set rSCG 0.1
+set rXPh 0.1
+set rSPh 0.1
+set rXCh 0.1
+set rSCh 0.1
+set rXC 0.1
+set rSC 0.1
+set rXc1 0.1
+set rSc1 0.1
+set rSc3 0.1

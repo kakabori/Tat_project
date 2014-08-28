@@ -1,0 +1,65 @@
+# NFIT version: nfit12.14
+# Tue Jul 16 02:01:20 PM EDT 2013
+# image filename: /home/kiyo/WinE/chess13/dopcpe/18to1dopcdopetat1to1/dopcpe029.tif
+# filter = 0.0
+# Kc	free	5.89532e-13	 dataset	: 13.0 529 549 250 600
+# B		free	1.18821e+13	 duplicates	: 2
+# Lr		fixed	5000	 cz		: yes
+# Mz		fixed	10
+# D		free	65.2855
+# mosaic		fixed	0
+# edisp	fixed	0.0134
+# beamFWHM		fixed	0
+# sDistance		fixed	359.3
+# bc2b		fixed	2.12594
+# wavelength		fixed	1.175
+# pixelSize		fixed	0.07113
+# qxzero		fixed	521
+# refractiveIndex	fixed	0.999998
+# T		fixed	37
+# ChiSquare 1.07862186957
+# lambda 39.5165137756
+# eta 0.0632457917442
+# xi 50.8892010021
+# Iteration 10
+# aFactor 0.2
+#
+set paramArray(Kc) 5.89532e-13
+set paramArray(B) 1.18821e+13
+set paramArray(Lr) 5000
+set paramArray(Mz) 10
+set paramArray(D) 65.2855
+set paramArray(mosaic) 0
+set paramArray(edisp) 0.0134
+set paramArray(beamFWHM) 0
+set paramArray(sDistance) 359.3
+set paramArray(bc2b) 2.12594
+set paramArray(wavelength) 1.175
+set paramArray(pixelSize) 0.07113
+set paramArray(qxzero) 521
+set paramArray(refractiveIndex) 0.999998
+set paramArray(T) 37
+set freeOrFixed(Kc) 1
+set freeOrFixed(B) 1
+set freeOrFixed(Lr) 0
+set freeOrFixed(Mz) 0
+set freeOrFixed(D) 1
+set freeOrFixed(mosaic) 0
+set freeOrFixed(edisp) 0
+set freeOrFixed(beamFWHM) 0
+set freeOrFixed(sDistance) 0
+set freeOrFixed(bc2b) 0
+set freeOrFixed(wavelength) 0
+set freeOrFixed(pixelSize) 0
+set freeOrFixed(qxzero) 0
+set freeOrFixed(refractiveIndex) 0
+set freeOrFixed(T) 0
+set rotation "0 521 995"
+set dataset "13.0 529 549 250 600"
+set dupe 2
+set nocz 0
+set noscale 0
+set NKfilter 0.0
+set iter 10
+set aFactor 0.2
+set notiff 0

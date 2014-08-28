@@ -1,0 +1,17 @@
+The images in this folder were all created by the following procedures:
+
+1. subtract the pedestal
+2. find a kLB image that is closest in samx position to the data
+3. find out the exposure time of the data and kLB and scale the kLB
+4. subtract the kLB
+5. save the resultant image as temp.tif
+6. load in temp.tif, flipx it, and shift by +19 pixels in x 
+7. add temp.tif to the kLB subtracted data
+8. multiply the data by 0.5
+9. apply the second order two box method
+   b1 221 821 240 950
+   b2  71 973 240 950
+10. save the image as dopcpe???.tif, where dopcpe_???_cz.tif is the raw data
+
+For each image, the beam z position was found from a qz swath, and D-spacing was
+calculated. sig_back was calculated from dopcpe???.tif for each image.

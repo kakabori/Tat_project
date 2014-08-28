@@ -1,0 +1,18 @@
+Hi Kiyo,
+
+I've attached a copy of the protocol I followed as well as the results I 
+generated and the calculations. Just so you have an idea of exactly what I did: 
+I dissolved each of the samples you gave me in 100 ul of sterile filtered 
+water. I used this solution as a 1:1 dilution and also made a 1:2 dilution from 
+it. For each time I ran the ninhydrin assay, I used two different volumes from 
+each dilution (20 ul and 10 ul) to get a range of concentrations to be 
+averaged.  For each tube of peptide you gave me, I was able to run the 
+ninhydrin assay twice so each of the 3 separate results I generated are based 
+on the averages of two experimental set ups. In order to perform these 
+calculations, I made a standard curve based on known molarities of a leucine 
+standard, so for each test, I generated a new leucine standard curve. 
+Basically, I found that for 1.3 mg of Tat dissolved in 100 ul of water, the 
+concentration was about 2.1 uM and for 1.0 mg of Tat dissolved in the same 
+volume, the concentration was about 1.2 uM. If there is anything you would like 
+me to clarify, please let me know.
+Mary Hasek

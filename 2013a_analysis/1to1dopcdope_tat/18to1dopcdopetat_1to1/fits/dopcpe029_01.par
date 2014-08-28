@@ -1,0 +1,73 @@
+# Fri Jul 12 06:59:34 PM EDT 2013
+# image filename: /home/kiyo/WinE/chess13/dopcpe/18to1dopcdopetat1to1/dopcpe029.tif
+# filter = 0.0
+# Kc	free	5.6051e-13	 dataset	: 13 529 829 250 600
+# B		free	1.1703e+13	 duplicates	: 2.0
+# lxctr		fixed	5000.0	 cz		: yes
+# lyctr		fixed	5000.0	 linkxy		: yes
+# mctr		fixed	10.0
+# D		fixed	65.534926449
+# mocsig	fixed	0.0
+# edisp		fixed	0.0134
+# bFWHM		fixed	2.3
+# s		fixed	359.3
+# bc2b		fixed	2.12594039393
+# R		fixed	1e-06
+# wavelength	fixed	1.175
+# pz		fixed	0.07113
+# qrzero	fixed	521.0
+# nindex	fixed	0.999998
+# T	fixed	37.0
+# ChiSquare 2.68736363411
+# lambda 33.3943259553
+# eta 0.0611557544881
+# xi 46.7813404259
+# Iteration 20
+# aFactor 0.0
+#
+paraset set p Kc 5.6051e-13
+paraset set p B 1.1703e+13
+paraset set p lxctr 5000.0
+paraset set p lyctr 5000.0
+paraset set p mctr 10.0
+paraset set p D 65.534926449
+paraset set p mocsig 0.0
+paraset set p edisp 0.0134
+paraset set p bFWHM 2.3
+paraset set p s 359.3
+paraset set p bc2b 2.12594039393
+paraset set p alpha 0.0
+paraset set p R 1e-06
+paraset set p wavelength 1.175
+paraset set p pz 0.07113
+paraset set p qrzero 521.0
+paraset set p nindex 0.999998
+paraset set p T 37.0
+set setnfitt(0) 1
+set setnfitt(1) 1
+set setnfitt(2) 0
+set setnfitt(3) 0
+set setnfitt(4) 0
+set setnfitt(5) 0
+set setnfitt(6) 0
+set setnfitt(7) 0
+set setnfitt(8) 0
+set setnfitt(9) 0
+set setnfitt(10) 0
+set setnfitt(11) 0
+set setnfitt(12) 0
+set setnfitt(13) 0
+set setnfitt(14) 0
+set setnfitt(15) 0
+set setnfitt(16) 0
+set setnfitt(17) 0
+set rotation "0 521 995"
+set dataset "13 529 829 250 600"
+set dupe 2.0
+set nocz 0
+set linkxy 1
+set noscale 0
+set NKfilter 0.0
+set iter 20
+set aFactor 0.0
+set notiff 0
